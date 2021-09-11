@@ -1,8 +1,22 @@
 <b>Text Classification Examples</b>
 
-reutersdata-keras-modeling_final.ipynb: 
+1) reutersdata-scratch-classicML.ipynb : simple data processing from raw source and classical machine learning (SVM, Logistic Regression)
 
-Text classification using Reuters dataset in Keras, adapted from various resources and references as follows -
+2) reutersdata_keras_processing.ipynb : keras way of processing reuters data (data util functions are integrated within keras) 
+
+3) reutersdata-keras-modeling_final.ipynb : data loaded from keras and trained with DL models (MLP, transformer)
+
+Acknowledgement and References: 
+
+Adapted from various resources, tools, and descriptions as follows -
+
+data: https://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/ or http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html
+
+https://martin-thoma.com/nlp-reuters/
+
+https://github.com/MartinThoma/algorithms/tree/master/ML/nlp
+
+https://www.quantstart.com/articles/Supervised-Learning-for-Document-Classification-with-Scikit-Learn/
 
 https://github.com/keras-team/keras/issues/12072
 
