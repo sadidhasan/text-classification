@@ -1,4 +1,4 @@
-<b>Text Classification Examples</b>
+<b>Text Classification using Reuters Data</b>
 
 1) reutersdata-scratch-classicML.ipynb : simple data processing from raw source and classical machine learning (SVM, Logistic Regression)
 
