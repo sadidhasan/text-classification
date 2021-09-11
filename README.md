@@ -15,3 +15,5 @@ https://phani1995.github.io/artificial/neural/network/2018/11/20/Reuters_newswir
 https://www.kaggle.com/drscarlat/reuters-document-classification-with-keras-tf
 
 https://towardsdatascience.com/text-classification-in-keras-part-1-a-simple-reuters-news-classifier-9558d34d01d3
+
+https://keras.io/examples/nlp/
