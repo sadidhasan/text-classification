@@ -1,4 +1,4 @@
-#Text Classification Examples
+<b>Text Classification Examples</b>
 
 reutersdata-keras-modeling_final.ipynb: 
 
